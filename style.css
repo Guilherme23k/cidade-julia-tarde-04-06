@@ -1,0 +1,33 @@
+body {
+  background-color: brown;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+h3 {
+  color: chocolate;
+}
+
+h4 {
+  color: blue;
+}
+
+h5 {
+  color: green;
+}
+
+h6 {
+  color: gray;
+}
+
+p {
+  color: violet;
+}
